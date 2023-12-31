@@ -9,6 +9,7 @@ function App() {
     <Router>
       <Routes>
         <Route path='/' element={<Home />} />
+        <Route path='/ForYou' element={<Home />} />
         <Route path='/nextpage' element={<Nextpage />} />
         <Route path='/ifyes' element={<Ifyes />} />
       </Routes>
