@@ -1,0 +1,17 @@
+.text3{
+    font-size: 68px;
+    margin-left: 95px;
+    margin-top: 70px;
+}
+
+@media screen and (max-width: 915px){
+    .text3{
+        margin-top: 202px;
+        margin-left: 132px;
+    }
+
+    .img2{
+        margin-top: 10px;
+        margin-left: 10px;
+    }
+}
